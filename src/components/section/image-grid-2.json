@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_section_image_grid_2s",
+  "info": {
+    "displayName": "image-grid-2",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "images": {
+      "type": "media",
+      "multiple": true,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
